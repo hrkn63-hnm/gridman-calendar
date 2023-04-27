@@ -1,0 +1,18 @@
+{
+  "name": "next-calendar",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "hrkn63-hnm <demo43160@gmail.com>",
+  "license": "MIT",
+    "scripts": {
+    "test": "mocha" 
+  },
+  "dependencies": {
+    "emoji-regex": "^10.2.1",
+    "figlet": "^1.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
